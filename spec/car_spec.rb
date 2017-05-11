@@ -27,6 +27,7 @@ describe 'Car' do
       expect(car.wheels).to eql(4)
     end
 
+    it 'allows writing for :doors'
 
   end
 
